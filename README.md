@@ -29,6 +29,8 @@ This project leverages **Tableau** for data visualization and **Python** for ini
    - **Purchase Frequency Heatmap**: Shows customer purchase frequency in relation to their browsing habits.
 
 ## Dataset Description
+The dataset used for this project was obtained from [Amazon Consumer Behavior Dataset](https://www.kaggle.com/datasets/swathiunnikrishnan/amazon-consumer-behaviour-dataset).
+
 The dataset used in this project includes 24 columns representing customer interactions and feedback regarding Amazon’s services. Key fields include:
 
 - **age**: Age of the consumer.
