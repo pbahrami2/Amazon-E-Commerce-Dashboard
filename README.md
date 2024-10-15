@@ -43,7 +43,7 @@ These insights can help guide decision-making to improve customer satisfaction a
 
 ### 1. **Customer Demographics**
 - **Metric**: Age and gender breakdown of Amazon customers.
-- **Finding**: Customers aged 18-35 make up about 65% of the total base, with males accounting for roughly 52%.
+- **Finding**: Customers aged 18-35 make up about 65% of the total base, with females accounting for roughly 58%.
 - **Visualization**: Bar charts showing customer segmentation by age and gender, supporting targeted marketing strategies.
 
 ### 2. **Purchase Trends Over Time**
